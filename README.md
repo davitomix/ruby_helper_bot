@@ -18,7 +18,7 @@
 > Clone the repository to your local machine
 
 ```sh
-$ git clone https://github.com/davitomix/platform_game
+$ git clone https://github.com/davitomix/ruby_helper_bot
 ```
 
 > cd into the directory, install dependencies, build and start
